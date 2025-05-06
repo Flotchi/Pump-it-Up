@@ -1,3 +1,5 @@
+Competition from https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/25/
+
 # Water Pump Status Predictor
 
 A machine learning pipeline to predict maintenance needs for Tanzanian water pumps.
